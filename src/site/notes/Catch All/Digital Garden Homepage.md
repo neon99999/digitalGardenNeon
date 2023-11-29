@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T22:58:22.367-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T22:59:46.135-07:00"}
 ---
 
 
@@ -9,6 +9,5 @@ Here's a linkkkky
 [[Catch All/Projection - Rear Projection Screens\|Projection - Rear Projection Screens]]
 
 ```dataview
-TABLE file.mtime AS "Last Modified"
+LIST
 FROM #one-day-projects
-SORT file.mtime DESC
