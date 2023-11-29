@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/projection-rear-projection-screens/","updated":"2023-11-28T17:25:27.485-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/projection-rear-projection-screens/","tags":["projecton-mapping"],"updated":"2023-11-28T18:16:26.503-07:00"}
 ---
 
 
