@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T23:09:50.244-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T23:12:22.749-07:00"}
 ---
 
 
@@ -10,5 +10,6 @@ Here's a linkkkky
 [[Catch All/3d or wooden toilet handle\|3d or wooden toilet handle]]
 [[Catch All/Laser projects\|Laser projects]]
 ``` dataview 
-list from #one-day-projects
+table
+From #one-day-projects
 ```
