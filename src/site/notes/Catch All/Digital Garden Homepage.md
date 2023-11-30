@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T23:15:41.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-11-28T23:15:41.261-07:00"}
 ---
 
 
@@ -23,10 +23,11 @@ Here's a linkkkky
 | [[Catch All/Virtual pets of the dead\|Virtual pets of the dead]]                                                   |
 | [[Catch All/Video clock\|Video clock]]                                                                             |
 | [[Catch All/Toilet Intercom\|Toilet Intercom]]                                                                     |
-| [[Catch All/Time lapse camera system\|Time lapse camera system]]                                                   |
-| [[Catch All/Time Left - Life expectancy visualizer\|Time Left - Life expectancy visualizer]]                       |
 | [[Catch All/Time Sensative\|Time Sensative]]                                                                       |
+| [[Catch All/Time Left - Life expectancy visualizer\|Time Left - Life expectancy visualizer]]                       |
+| [[Catch All/Time lapse camera system\|Time lapse camera system]]                                                   |
 | [[Catch All/The Warehouse\|The Warehouse]]                                                                         |
+| [[Catch All/The thing that stayed\|The thing that stayed]]                                                         |
 | [[Catch All/The surprise room\|The surprise room]]                                                                 |
 | [[Catch All/The Killer Bidet\|The Killer Bidet]]                                                                   |
 | [[Catch All/The Disconnect Bar\|The Disconnect Bar]]                                                               |
@@ -53,9 +54,9 @@ Here's a linkkkky
 | [[Catch All/Seeing yourself from above\|Seeing yourself from above]]                                               |
 | [[Catch All/Search Engine Tshirt\|Search Engine Tshirt]]                                                           |
 | [[Catch All/Rotating Cathulu Mug\|Rotating Cathulu Mug]]                                                           |
+| [[Catch All/robotic-bar-experience\|robotic-bar-experience]]                                                       |
 | [[Catch All/Robotic restaurant\|Robotic restaurant]]                                                               |
 | [[Catch All/Robotic Mouse\|Robotic Mouse]]                                                                         |
-| [[Catch All/robotic-bar-experience\|robotic-bar-experience]]                                                       |
 | [[Catch All/Retro computer terminal or cyberDeck\|Retro computer terminal or cyberDeck]]                           |
 | [[Catch All/Relationship time visualizer\|Relationship time visualizer]]                                           |
 | [[Catch All/Ranch Squirrel deterrent\|Ranch Squirrel deterrent]]                                                   |
@@ -85,8 +86,8 @@ Here's a linkkkky
 | [[Catch All/Interface\|Interface]]                                                                                 |
 | [[Catch All/Installation - 3D nature in display cases\|Installation - 3D nature in display cases]]                 |
 | [[Catch All/ideas -for-3d-art\|ideas -for-3d-art]]                                                                 |
-| [[Catch All/Human Clock\|Human Clock]]                                                                             |
 | [[Catch All/I agree totally\|I agree totally]]                                                                     |
+| [[Catch All/Human Clock\|Human Clock]]                                                                             |
 | [[Catch All/House automation\|House automation]]                                                                   |
 | [[Catch All/Horror Wifi\|Horror Wifi]]                                                                             |
 | [[Catch All/Hanging boulder\|Hanging boulder]]                                                                     |
@@ -107,8 +108,8 @@ Here's a linkkkky
 | [[Catch All/Electronics jewelry\|Electronics jewelry]]                                                             |
 | [[Catch All/Double projectors\|Double projectors]]                                                                 |
 | [[Catch All/Dogs\|Dogs]]                                                                                           |
-| [[Catch All/Digital Infection\|Digital Infection]]                                                                 |
 | [[Catch All/Digital Prayer Maker\|Digital Prayer Maker]]                                                           |
+| [[Catch All/Digital Infection\|Digital Infection]]                                                                 |
 | [[Catch All/Digital Decay\|Digital Decay]]                                                                         |
 | [[Catch All/Digital Blasphemy\|Digital Blasphemy]]                                                                 |
 | [[Catch All/DigiCallingCard\|DigiCallingCard]]                                                                     |
@@ -126,8 +127,8 @@ Here's a linkkkky
 | [[Catch All/Capture Scrambler\|Capture Scrambler]]                                                                 |
 | [[Catch All/Bull\|Bull]]                                                                                           |
 | [[Catch All/Bird Window\|Bird Window]]                                                                             |
-| [[Catch All/BioHacker\|BioHacker]]                                                                                 |
 | [[Catch All/bird on a wire\|bird on a wire]]                                                                       |
+| [[Catch All/BioHacker\|BioHacker]]                                                                                 |
 | [[Catch All/Bathroom Modesty Device\|Bathroom Modesty Device]]                                                     |
 | [[Catch All/BassBuster(1)\|BassBuster(1)]]                                                                         |
 | [[Catch All/Bass coast sign - totem\|Bass coast sign - totem]]                                                     |
@@ -136,11 +137,10 @@ Here's a linkkkky
 | [[Catch All/AI Summons a curse\|AI Summons a curse]]                                                               |
 | [[Catch All/AI - Happiness Assistant\|AI - Happiness Assistant]]                                                   |
 | [[Catch All/A Toilet Paper Sealed With A Kiss\|A Toilet Paper Sealed With A Kiss]]                                 |
+| [[Catch All/A Thing is Born\|A Thing is Born]]                                                                     |
+| [[Catch All/3d or wooden toilet handle\|3d or wooden toilet handle]]                                               |
 | [[Catch All/3D Flowers\|3D Flowers]]                                                                               |
 | [[Catch All/2.C.A.R.E.\|2.C.A.R.E.]]                                                                               |
-| [[Catch All/The thing that stayed\|The thing that stayed]]                                                         |
 | [[Catch All/Nunsploitation at camp holyland\|Nunsploitation at camp holyland]]                                     |
-| [[Catch All/3d or wooden toilet handle\|3d or wooden toilet handle]]                                               |
-| [[Catch All/A Thing is Born\|A Thing is Born]]                                                                     |
 
 { .block-language-dataview}
