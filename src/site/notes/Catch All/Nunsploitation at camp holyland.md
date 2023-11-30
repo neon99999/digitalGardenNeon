@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" \"Future Projects/Nunsploitation at camp holyland\"","permalink":"//","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-11-30T14:09:13.084-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/nunsploitation-at-camp-holyland/","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-11-30T14:13:56.546-07:00"}
 ---
 
 ##### **Overview**
