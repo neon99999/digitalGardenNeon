@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/laser-projects/","tags":["one-day-projects"],"updated":"2023-11-28T22:53:24.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/laser-projects/","tags":["one-day-projects"],"updated":"2023-11-28T22:53:24.470-07:00"}
 ---
 
 ##### **Overview**
