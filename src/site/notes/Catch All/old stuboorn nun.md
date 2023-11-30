@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/old-stuboorn-nun/","tags":["character","story","Nunsploitation"],"updated":"2023-11-30T14:12:36.137-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/old-stuboorn-nun/","tags":["character","story","Nunsploitation"],"updated":"2023-11-30T14:12:36.000-07:00"}
 ---
 
 An 80 year old nun 
