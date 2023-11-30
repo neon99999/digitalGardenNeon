@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/a-thing-is-born/","updated":"2023-11-29T18:33:52.216-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/a-thing-is-born/","tags":["one-day-projects"],"updated":"2023-11-29T18:41:45.424-07:00"}
 ---
 
 ## Overview
