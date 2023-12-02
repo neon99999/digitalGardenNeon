@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-02T00:13:49.709-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-02T00:32:34.768-07:00"}
 ---
 
-	# Welcome to my Digital Garden! 
+# Welcome to my Digital Garden! 
 
 > [!WARNING]+ Online Database?!!
 > - [[Catch All/What the heck is this\|What the heck is this]] ?
