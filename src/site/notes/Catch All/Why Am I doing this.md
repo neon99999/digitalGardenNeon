@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-02T00:31:49.803-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-02T00:31:49.000-07:00"}
 ---
 
 ### TLDR
