@@ -32,7 +32,7 @@ I'm trying to counter the transient nature of posts and stories on social media 
 I want to be transparent about who I am and what I think. I want to be judged by my thoughts rather than the digital twin I craft of myself online. And frankly, I don't want y'all to see me. If you want to see me, [[Catch All/let's hang out!\|let's hang out!]]
 
 #### Gradual Refinement of Ideas
-This whole brain dump is also a place for me to refine ideas and grow projects that might otherwise lay dormant. This is a process of [[Learning In Public\|Learning In Public]].
+This whole brain dump is also a place for me to refine ideas and grow projects that might otherwise lay dormant. This is a process of [[Catch All/Learning In Public\|Learning In Public]].
 
 #### Second Brain for Storage and Connections
 Serves as an external repository for my thoughts - I forget stuff, these documents guard it a little better. Especially when I can back it up. If I lose my mind, you can train a robot to be me. Or ten robots! 
