@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-02T00:31:39.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-06T00:43:21.195-07:00"}
 ---
 
 > [!TIP]+ Basically wikipedia but it's just about me. :p
 
-## What
-A work in progress, an ongoing collection and a place to practise [[Learning In Public\|Learning In Public]].  A place to remember and a place to organize. 
+## What is this?
+A work in progress, an ongoing collection and a place to practise [[Catch All/Learning In Public\|Learning In Public]].  A place to remember and a place to organize. 
 Nothing published here is a final statement, in fact most of these are only half-baked ideas...but some stuff is real deep too. 
 
 ## How
