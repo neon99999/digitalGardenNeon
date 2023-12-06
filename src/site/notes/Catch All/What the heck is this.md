@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-02T00:31:39.755-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-02T00:31:39.000-07:00"}
 ---
 
 > [!TIP]+ Basically wikipedia but it's just about me. :p
