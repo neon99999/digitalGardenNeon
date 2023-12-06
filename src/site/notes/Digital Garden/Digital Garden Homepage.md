@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T12:36:20.429-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","updated":"2023-12-06T12:44:47.815-07:00"}
 ---
 
 ![Garden-17 - Copy.jpeg](/img/user/Attachements/Garden-17%20-%20Copy.jpeg)
 Welcome to Matthew Waddell's digital playground – picture it as a garden, but with more pixels and less pollen. I'm an artist and educator from Calgary, Canada. My craft involves creating digital art projects, done both solo and in collaboration with others. In addition to being an artist, I am involved in educating others about various aspects of digital art. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) This space is where you'll discover in-depth views of my previous projects, interests, and personal musings on life. 
 
 #### About this Site 
-- [[Digital Garden/What the heck is this\|What the heck is this]] ?
-- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]?
--  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
+- [[Catch All/What the heck is this\|What the heck is this]] ?
+- [[Catch All/Why Am I Doing This\|Why Am I Doing This]]?
+-  [[Catch All/Open Sharing with Respect\|Open Sharing with Respect]]
 ####  About Me
 - Bio
 - CV
@@ -28,20 +28,6 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
-- [[Digital Garden/A Thing is Born\|A Thing is Born]]
 - [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
-- [[Digital Garden/What the heck is this\|What the heck is this]]
-- [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
-- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]
-- [[Digital Garden/Learning In Public\|Learning In Public]]
-- [[Digital Garden/AI\|AI]]
-- [[Digital Garden/AI - How will AI Kill All Humans\|AI - How will AI Kill All Humans]]
-- [[Digital Garden/Societal Manipulation\|Societal Manipulation]]
-- [[Digital Garden/AI begin taking human form\|AI begin taking human form]]
-- [[Digital Garden/AI Buddy\|AI Buddy]]
-- [[Digital Garden/Deepest Human Instincts\|Deepest Human Instincts]]
-- [[Digital Garden/The Singularity\|The Singularity]]
-- [[Digital Garden/AI - How it will erode society\|AI - How it will erode society]]
-- [[Digital Garden/Nunsploitation at camp holyland\|Nunsploitation at camp holyland]]
 
 { .block-language-dataview}
