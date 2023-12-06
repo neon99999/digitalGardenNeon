@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-06T01:12:54.012-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-06T01:12:54.000-07:00"}
 ---
 
 
