@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-06T14:53:27.185-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-06T14:55:19.095-07:00"}
 ---
 
 ⬆️ [[Catch All/Music\|Music]]
+
 An exhaustive list of albums that I would consider "favs of all time". 
 I would take any of these albums on a one-way to trip to Mars. 
 
