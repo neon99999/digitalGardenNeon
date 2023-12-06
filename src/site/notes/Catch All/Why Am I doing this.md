@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-02T00:31:49.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-06T01:11:05.182-07:00"}
 ---
 
+![IMG_6552.jpeg](/img/user/Attachements/IMG_6552.jpeg)
 ### TLDR
 - I want to be more present online but need control of my digital being.
 - I like the freedom of websites over sketchy social media platforms - don't steal my vibes Zucker Musk!
