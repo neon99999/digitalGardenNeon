@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T00:44:58.103-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T00:51:23.944-07:00"}
 ---
 
-# Welcome to my Digital Garden
-![Pasted image 20231206003108.jpg](/img/user/Attachements/Pasted%20image%2020231206003108.jpg)
-### About this Site 
+# Welcome to my Digital Garden!
+![Pasted image 20231206005050.jpg](/img/user/Attachements/Pasted%20image%2020231206005050.jpg)
+#### About this Site 
 - [[Catch All/What the heck is this\|What the heck is this]] ?
 - [[Catch All/Why Am I doing this\|Why Am I doing this]]?
 -  [[Catch All/AI, Copyright, and IP\|AI, Copyright, and IP]]?
-###  About Me
+####  About Me
 - Bio
 - CV
 - Artistic Statement
-
 
 #### Interests
 - [[Catch All/Music\|Music]]
