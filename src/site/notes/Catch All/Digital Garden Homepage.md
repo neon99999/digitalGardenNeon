@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T00:51:23.944-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T01:14:04.155-07:00"}
 ---
 
 # Welcome to my Digital Garden!
-![Pasted image 20231206005050.jpg](/img/user/Attachements/Pasted%20image%2020231206005050.jpg)
+![IMG_6555.jpeg](/img/user/Attachements/IMG_6555.jpeg)
+
 #### About this Site 
 - [[Catch All/What the heck is this\|What the heck is this]] ?
 - [[Catch All/Why Am I doing this\|Why Am I doing this]]?
