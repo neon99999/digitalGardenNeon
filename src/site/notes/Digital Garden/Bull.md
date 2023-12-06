@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/bull/","tags":["one-day-projects","short-film","feature-film","documentary","observational-documentary"],"updated":"2023-12-06T15:01:11.487-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/bull/","tags":["one-day-projects","short-film","feature-film","documentary","observational-documentary"],"updated":"2023-12-06T15:08:58.464-07:00"}
 ---
 
 ##### **Overview**
+
 An obervational documentary about bull riding. Following a bull and a rider or a few bulls. 
 No narration, beautiful camera shorts, great sound. 
 Maybe use GoPros to mount on various things like the rider or the bull. 
