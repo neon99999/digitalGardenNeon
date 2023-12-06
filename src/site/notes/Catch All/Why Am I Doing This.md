@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-06T12:23:04.132-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-06T15:14:46.206-07:00"}
 ---
 
-![Garden-8.jpg](/img/user/Attachements/Garden-8.jpg)
+![Garden-08.jpg](/img/user/Attachements/Garden-08.jpg)
 ### TLDR
 - I want to be more present online but need control of my digital being.
 - 
