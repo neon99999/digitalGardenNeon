@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-06T00:43:21.195-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/what-the-heck-is-this/","updated":"2023-12-06T01:00:34.656-07:00"}
 ---
 
-> [!TIP]+ Basically wikipedia but it's just about me. :p
+# Digital Garden?
+![IMG_6550.jpeg](/img/user/Attachements/IMG_6550.jpeg)
 
-## What is this?
 A work in progress, an ongoing collection and a place to practise [[Catch All/Learning In Public\|Learning In Public]].  A place to remember and a place to organize. 
 Nothing published here is a final statement, in fact most of these are only half-baked ideas...but some stuff is real deep too. 
 
