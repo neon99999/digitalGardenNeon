@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T11:54:25.882-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T12:22:25.512-07:00"}
 ---
 
 ![IMG_6555.jpeg](/img/user/Attachements/IMG_6555.jpeg)
@@ -7,7 +7,7 @@ Welcome to Matthew Waddell's digital playground – picture it as a garden, but 
 
 #### About this Site 
 - [[Digital Garden/What the heck is this\|What the heck is this]] ?
-- [[Digital Garden/Why Am I doing this\|Why Am I doing this]]?
+- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]?
 -  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]?
 ####  About Me
 - Bio
@@ -18,7 +18,7 @@ Welcome to Matthew Waddell's digital playground – picture it as a garden, but 
 - [[Catch All/Music\|Music]]
 - [[Catch All/Topics I can Teach\|Topics I can Teach]]
 - [[Catch All/Languages\|Languages]]
-- [[Technology\|Technology]]
+- [[Catch All/Technology\|Technology]]
 
 Projects
 - Personal Projects
@@ -28,10 +28,10 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
-- [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
+- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]
 - [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
+- [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
 - [[Digital Garden/What the heck is this\|What the heck is this]]
-- [[Digital Garden/Why Am I doing this\|Why Am I doing this]]
 - [[Digital Garden/Learning In Public\|Learning In Public]]
 - [[Digital Garden/AI\|AI]]
 - [[Digital Garden/AI - How will AI Kill All Humans\|AI - How will AI Kill All Humans]]
