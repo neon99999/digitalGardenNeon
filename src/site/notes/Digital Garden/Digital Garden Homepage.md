@@ -28,6 +28,7 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
+- [[Digital Garden/A Thing is Born\|A Thing is Born]]
 - [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
 - [[Digital Garden/What the heck is this\|What the heck is this]]
 - [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
@@ -41,5 +42,6 @@ Projects
 - [[Digital Garden/Deepest Human Instincts\|Deepest Human Instincts]]
 - [[Digital Garden/The Singularity\|The Singularity]]
 - [[Digital Garden/AI - How it will erode society\|AI - How it will erode society]]
+- [[Digital Garden/Nunsploitation at camp holyland\|Nunsploitation at camp holyland]]
 
 { .block-language-dataview}
