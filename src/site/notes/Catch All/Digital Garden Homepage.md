@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T11:38:40.133-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T12:36:20.429-07:00"}
 ---
 
-![IMG_6555.jpeg](/img/user/Attachements/IMG_6555.jpeg)
-Welcome to the website of Matthew Waddell, an artist and educator based in Calgary, Canada. My work revolves around creating digital art projects, both individually and in collaboration with others. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) Here, you'll find detailed insights into my previous works, interests, and personal musings on life. 
+![Garden-17 - Copy.jpeg](/img/user/Attachements/Garden-17%20-%20Copy.jpeg)
+Welcome to Matthew Waddell's digital playground – picture it as a garden, but with more pixels and less pollen. I'm an artist and educator from Calgary, Canada. My craft involves creating digital art projects, done both solo and in collaboration with others. In addition to being an artist, I am involved in educating others about various aspects of digital art. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) This space is where you'll discover in-depth views of my previous projects, interests, and personal musings on life. 
 
 #### About this Site 
 - [[Catch All/What the heck is this\|What the heck is this]] ?
-- [[Catch All/Why Am I doing this\|Why Am I doing this]]?
--  [[Catch All/AI, Copyright, and IP\|AI, Copyright, and IP]]?
+- [[Catch All/Why Am I Doing This\|Why Am I Doing This]]?
+-  [[Catch All/Open Sharing with Respect\|Open Sharing with Respect]]
 ####  About Me
 - Bio
 - CV
@@ -18,7 +18,7 @@ Welcome to the website of Matthew Waddell, an artist and educator based in Calga
 - [[Catch All/Music\|Music]]
 - [[Catch All/Topics I can Teach\|Topics I can Teach]]
 - [[Catch All/Languages\|Languages]]
-- [[Technology\|Technology]]
+- [[Catch All/Technology\|Technology]]
 
 Projects
 - Personal Projects
@@ -26,3 +26,7 @@ Projects
 - Collaborations
 - AZMA Projects
 - Anzola/Waddell Projects
+
+# Recently Updated Notes
+
+{ .block-language-dataview}
