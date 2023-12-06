@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/ai-copyright-and-ip/","updated":"2023-12-02T00:31:56.275-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/ai-copyright-and-ip/","updated":"2023-12-02T00:31:56.000-07:00"}
 ---
 
 > [!TIP]+ On this website I openly share my thoughts and ideas
