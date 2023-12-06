@@ -29,6 +29,7 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
+- [[Digital Garden/Bull\|Bull]]
 - [[Digital Garden/My Favourite Albums\|My Favourite Albums]]
 - [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
 
