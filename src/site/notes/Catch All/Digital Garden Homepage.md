@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-02T00:32:34.768-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T00:32:52.689-07:00"}
 ---
 
-# Welcome to my Digital Garden! 
+# Matt's Digital Garden!
+![Pasted image 20231206003108.jpg](/img/user/Attachements/Pasted%20image%2020231206003108.jpg)
 
-> [!WARNING]+ Online Database?!!
+> [!WARNING]+ Digital Garden?!!
 > - [[Catch All/What the heck is this\|What the heck is this]] ?
 > - [[Catch All/Why Am I doing this\|Why Am I doing this]]?
 > -  [[Catch All/AI, Copyright, and IP\|AI, Copyright, and IP]]?
