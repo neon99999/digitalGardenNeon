@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-06T01:11:05.182-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/why-am-i-doing-this/","updated":"2023-12-06T01:11:05.000-07:00"}
 ---
 
 ![IMG_6552.jpeg](/img/user/Attachements/IMG_6552.jpeg)
