@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T12:22:25.512-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden-homepage/","tags":["gardenEntry"],"updated":"2023-12-06T12:27:17.576-07:00"}
 ---
 
 ![IMG_6555.jpeg](/img/user/Attachements/IMG_6555.jpeg)
@@ -8,7 +8,7 @@ Welcome to Matthew Waddell's digital playground – picture it as a garden, but 
 #### About this Site 
 - [[Digital Garden/What the heck is this\|What the heck is this]] ?
 - [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]?
--  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]?
+-  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
 ####  About Me
 - Bio
 - CV
@@ -28,8 +28,8 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
-- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]
 - [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
+- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]
 - [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
 - [[Digital Garden/What the heck is this\|What the heck is this]]
 - [[Digital Garden/Learning In Public\|Learning In Public]]
