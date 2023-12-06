@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-06T01:12:54.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-06T12:30:43.689-07:00"}
 ---
 
-
-![IMG_6550 1.jpeg](/img/user/Attachements/IMG_6550%201.jpeg)
+![Garden-7.jpg](/img/user/Attachements/Garden-7.jpg)
 
  - An experiment in creating a personalized digital space.
  
