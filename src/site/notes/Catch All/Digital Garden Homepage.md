@@ -28,5 +28,6 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
+- [[Digital Garden/Digital Garden Homepage\|Digital Garden Homepage]]
 
 { .block-language-dataview}
