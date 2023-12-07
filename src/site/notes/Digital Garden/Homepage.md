@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-06T23:30:21.143-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-06T23:32:06.585-07:00"}
 ---
 
 # Greetings Visitor!
