@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai-prediction-timeline/","updated":"2023-12-06T17:13:46.082-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai-prediction-timeline/","updated":"2023-12-06T17:13:46.000-07:00"}
 ---
 
 ### Very Soon
