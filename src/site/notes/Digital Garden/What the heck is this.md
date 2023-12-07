@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-06T16:17:12.072-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-06T16:17:12.000-07:00"}
 ---
 
 ![Garden-07.jpg](/img/user/Attachements/Garden-07.jpg)
