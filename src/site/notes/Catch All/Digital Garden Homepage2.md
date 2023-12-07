@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage2/","updated":"2023-12-06T23:18:21.456-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/digital-garden-homepage2/","updated":"2023-12-06T23:21:23.773-07:00"}
 ---
 
-# Hellllooo
+# Hellllooop
 ![Garden-12.jpg](/img/user/Attachements/Garden-12.jpg)
 Welcome to Matthew Waddell's digital playground – picture it as a garden, but with more pixels and less pollen. I'm an artist and educator from Calgary, Canada. My craft involves creating digital art projects, done both solo and in collaboration with others. In addition to being an artist, I am involved in educating others about various aspects of digital art. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) This space is where you'll discover in-depth views of my previous projects, interests, and personal musings on life. 
 
