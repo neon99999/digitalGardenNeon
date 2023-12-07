@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/why-am-i-doing-this/","updated":"2023-12-06T16:18:32.783-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/why-am-i-doing-this/","updated":"2023-12-06T16:18:32.000-07:00"}
 ---
 
 ![Garden-08.jpg](/img/user/Attachements/Garden-08.jpg)
