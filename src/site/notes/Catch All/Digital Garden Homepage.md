@@ -7,9 +7,9 @@ jjjjjjj
 Welcome to Matthew Waddell's digital playground – picture it as a garden, but with more pixels and less pollen. I'm an artist and educator from Calgary, Canada. My craft involves creating digital art projects, done both solo and in collaboration with others. In addition to being an artist, I am involved in educating others about various aspects of digital art. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) This space is where you'll discover in-depth views of my previous projects, interests, and personal musings on life. 
 
 #### About this Site 
-- [[Catch All/What the heck is this\|What the heck is this]] ?
-- [[Catch All/Why Am I Doing This\|Why Am I Doing This]]?
--  [[Catch All/Open Sharing with Respect\|Open Sharing with Respect]]
+- [[Digital Garden/What the heck is this\|What the heck is this]] ?
+- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]?
+-  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
 ####  About Me
 - Bio
 - CV
@@ -29,8 +29,20 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
-- [[Digital Garden/Digital Garden Homepage 2\|Digital Garden Homepage 2]]
-- [[Digital Garden/Bull\|Bull]]
-- [[Digital Garden/My Favourite Albums\|My Favourite Albums]]
+- [[Digital Garden/AI\|AI]]
+- [[Digital Garden/AI - Prediction Timeline\|AI - Prediction Timeline]]
+- [[Digital Garden/AI - What is GPT\|AI - What is GPT]]
+- [[Digital Garden/AI - General Reflections\|AI - General Reflections]]
+- [[Digital Garden/AI - The most dangerous things you can do with AI\|AI - The most dangerous things you can do with AI]]
+- [[Digital Garden/Future Health\|Future Health]]
+- [[Digital Garden/AI - Meaningful AI Existence\|AI - Meaningful AI Existence]]
+- [[Digital Garden/Future Predictions\|Future Predictions]]
+- [[Digital Garden/AI - The Accelerating Evolution\|AI - The Accelerating Evolution]]
+- [[Digital Garden/The Singularity\|The Singularity]]
+- [[Digital Garden/AI - Recursive Improvement\|AI - Recursive Improvement]]
+- [[Digital Garden/AI - Jailbreaks\|AI - Jailbreaks]]
+- [[Digital Garden/AI - Instrumental Convergence\|AI - Instrumental Convergence]]
+- [[Digital Garden/AI - Artificial Neurons\|AI - Artificial Neurons]]
+- [[Digital Garden/AI - Weighting\|AI - Weighting]]
 
 { .block-language-dataview}
