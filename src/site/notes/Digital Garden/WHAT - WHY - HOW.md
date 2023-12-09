@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-why-how/","updated":"2023-12-08T17:32:40.317-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-why-how/","updated":"2023-12-08T17:36:35.545-07:00"}
 ---
 
 ![Garden-08.jpg](/img/user/Attachements/Garden-08.jpg)
@@ -31,7 +31,7 @@
 
 - **Zettelkasten Method**: My site roughly follows the Zettelkasten method, organizing and connecting thoughts like a personal Wikipedia for ideas.
   
-- **Tech Behind This**: Using Obsidian, along with Ole Eskild Steensen's "Digital Garden" plugin and Vercel for hosting. 
+- **Tech Behind This**: Using Obsidian, along with [Ole Eskild Steensen's](https://ko-fi.com/oleeskild)"Digital Garden" plugin and Vercel for hosting. 
 
 #### My Perspective on Content and Sharing
 
