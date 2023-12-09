@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai-corrigibility/","updated":"2023-12-06T16:37:25.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai-corrigibility/","updated":"2023-12-06T16:37:25.907-07:00"}
 ---
 
 - Corrigibility refers to the ability of an AI system to recognize when its goals or behavior are problematic and to cooperate with human operators in order to correct these issues. 
