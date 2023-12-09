@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai-goal-predicate/","updated":"2023-12-06T16:37:22.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai-goal-predicate/","updated":"2023-12-06T16:37:22.862-07:00"}
 ---
 
 In artificial intelligence, a goal predicate is a statement that defines the objective or goal of an intelligent system in a way that is understandable to both humans and machines. A goal predicate typically takes the form of a logical statement that describes a desired state of the world or a set of conditions that must be satisfied to achieve a particular outcome.
