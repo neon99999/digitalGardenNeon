@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/music/","tags":["moc"],"updated":"2023-12-08T19:30:28.332-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/music/","tags":["moc"],"updated":"2023-12-08T19:43:02.960-07:00"}
 ---
 
 
@@ -17,11 +17,4 @@
 [[Catch All/Concerts that Rocked Me Good\|Concerts that Rocked Me Good]]
 
 
-
-## Unpublished
-[[Catch All/Music reflections\|Music reflections]]
-[[Catch All/Concerts I've been to\|Concerts I've been to]]
-[[Catch All/Festivals I've Been to\|Festivals I've Been to]]
-[[Catch All/Non-western Music\|Non-western Music]]
-[[Catch All/Other Peoples Favorite Albums\|Other Peoples Favorite Albums]]
-[[Catch All/Check out - music\|Check out - music]]
+🕳
