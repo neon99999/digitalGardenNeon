@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry","gardenEntry","gardenEntry"],"updated":"2023-12-08T17:21:40.254-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-08T17:21:40.254-07:00"}
 ---
 
 # Greetings Visitor! 
@@ -29,7 +29,9 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
+- [[Digital Garden/Bad Ass Electronic Ladies\|Bad Ass Electronic Ladies]]
 - [[Digital Garden/Music/Tunes for Specific Moods\|Tunes for Specific Moods]]
+- [[Digital Garden/Early Electronic Pop\|Early Electronic Pop]]
 - [[Digital Garden/Music/Music\|Music]]
 - [[Digital Garden/Psychedelic Amazonian Cumbia\|Psychedelic Amazonian Cumbia]]
 - [[Digital Garden/Grunge\|Grunge]]
@@ -42,7 +44,5 @@ Projects
 - [[Digital Garden/Online Music Resrouces\|Online Music Resrouces]]
 - [[Digital Garden/Language/Japanese/Japanese - Words or ideas that only exist in Japanes\|Japanese - Words or ideas that only exist in Japanes]]
 - [[Digital Garden/Language/Japanese/Japanese - Vocab\|Japanese - Vocab]]
-- [[Digital Garden/Language/Japanese/Japanese - Phrases\|Japanese - Phrases]]
-- [[Digital Garden/Language/Japanese/Japanese - Words that are English\|Japanese - Words that are English]]
 
 { .block-language-dataview}
