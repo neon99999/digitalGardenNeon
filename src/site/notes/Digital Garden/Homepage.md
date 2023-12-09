@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["garden","gardenEntry"],"updated":"2023-12-07T08:48:06.404-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-08T17:21:40.254-07:00"}
 ---
 
 # Greetings Visitor! 
-![Garden-13.jpg](/img/user/Attachements/Garden-13.jpg)
+![Garden-31.jpg](/img/user/Attachements/Garden-31.jpg)
 
-Welcome to Matthew Waddell's digital playground – picture it as a garden, but with more pixels and less pollen. This space is where you'll discover in-depth views of my previous projects, interests, and personal musings on life.  I'm an artist and educator from Calgary, Canada. My craft involves creating digital art projects, done both solo and in collaboration with others. In addition to being an artist, I am involved in educating others about various aspects of digital art. I am also the co-founder of [Axis Z Media Arts.](https://azmadigital.com/) 
+Welcome to my digital village - an evolving experiment in building an online space where I can share my work, interests, and personal musings on life. 
 
-#### About this Site 
-- [[Digital Garden/What the heck is this\|What the heck is this]] ?
-- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]?
--  [[Digital Garden/Open Sharing with Respect\|Open Sharing with Respect]]
+This may be different than your usual artist website so please be patient while trying to figure out what the heck is going on.  To learn more about what the heck is going on, check out [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
+
 ####  About Me
-- Bio
+- [[Catch All/Bio\|Bio]]
 - CV
 - Artistic Statement
 
@@ -31,7 +29,11 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
+- [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
+- [[Digital Garden/Zettlecasten Method\|Zettlecasten Method]]
+- [[Digital Garden/What the heck is this\|What the heck is this]]
 - [[Digital Garden/Homepage\|Homepage]]
+- [[Digital Garden/Why Am I Doing This\|Why Am I Doing This]]
 - [[Digital Garden/AI\|AI]]
 - [[Digital Garden/AI - Prediction Timeline\|AI - Prediction Timeline]]
 - [[Digital Garden/AI - What is GPT\|AI - What is GPT]]
@@ -42,9 +44,5 @@ Projects
 - [[Digital Garden/Future Predictions\|Future Predictions]]
 - [[Digital Garden/AI - The Accelerating Evolution\|AI - The Accelerating Evolution]]
 - [[Digital Garden/The Singularity\|The Singularity]]
-- [[Digital Garden/AI - Recursive Improvement\|AI - Recursive Improvement]]
-- [[Digital Garden/AI - Jailbreaks\|AI - Jailbreaks]]
-- [[Digital Garden/AI - Instrumental Convergence\|AI - Instrumental Convergence]]
-- [[Digital Garden/AI - Artificial Neurons\|AI - Artificial Neurons]]
 
 { .block-language-dataview}
