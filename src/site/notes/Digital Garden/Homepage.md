@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry","gardenEntry"],"updated":"2023-12-08T17:21:40.254-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry","gardenEntry","gardenEntry"],"updated":"2023-12-08T17:21:40.254-07:00"}
 ---
 
 # Greetings Visitor! 
@@ -29,8 +29,8 @@ Projects
 - Anzola/Waddell Projects
 
 # Recently Updated Notes
-- [[Digital Garden/Music/Music\|Music]]
 - [[Digital Garden/Music/Tunes for Specific Moods\|Tunes for Specific Moods]]
+- [[Digital Garden/Music/Music\|Music]]
 - [[Digital Garden/Psychedelic Amazonian Cumbia\|Psychedelic Amazonian Cumbia]]
 - [[Digital Garden/Grunge\|Grunge]]
 - [[Digital Garden/Freak Folk\|Freak Folk]]
