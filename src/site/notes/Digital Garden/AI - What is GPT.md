@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai-what-is-gpt/","updated":"2023-12-06T17:08:13.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai-what-is-gpt/","updated":"2023-12-06T17:08:13.531-07:00"}
 ---
 
 ## What is GPT AI?
