@@ -1,22 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-06T16:17:12.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-the-heck-is-this/","updated":"2023-12-08T17:23:54.666-07:00"}
 ---
 
-![Garden-07.jpg](/img/user/Attachements/Garden-07.jpg)
 
- - An experiment in creating a personalized digital space.
- 
-- An evolving collection of thoughts and memories.
 
-- A space dedicated to practicing Learning In Public.
 
-- A place for preserving memories that might otherwise be forgotten.
 
 #### Nothing published here is a final statement
 
 In fact most of these are only half-baked ideas...but some stuff is real deep too. 
 
-## How
+#### How
 I'm using Obsidian, along with [Ole Eskild Steensen](https://ko-fi.com/oleeskild)'s "Digital Garden" community plugin, to publish a static website from Markdown files through Vercel.I don't know much about Vercel, but it is hosting this website and interfacing with the plug-in. 
 
 ## Zettlecasten Method
