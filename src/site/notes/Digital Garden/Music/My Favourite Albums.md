@@ -1,0 +1,108 @@
+---
+{"dg-publish":true,"permalink":"/digital-garden/music/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-08T18:54:07.516-07:00"}
+---
+
+An exhaustive list of albums that I would consider "favs of all time". 
+I would take any of these albums on a one-way to trip to Mars. 
+
+In no particular order: 
+
+- [[Catch All/Philip Glass - North Star (1977)\|Philip Glass - North Star (1977)]]
+-  !Madvillain - Madvillainy (2004)
+- ! PJ Harvey - Let England Shake (2011)
+- PJ Harvey - White Chalk (2007)
+- Yo La Tengo - I Can Hear the Heart Beating as One (1997)
+- ! Mark Ernestus' Ndagga Rhythm Force - Yermande (2016)
+- Atom TM - Liedgut (2009) 
+- Prefuse 73 - Vocal Studies + Uprock Narratives (2001) 
+- [[Cassie - Cassie (2006) \|Cassie - Cassie (2006) ]]
+- Frank Zappa - Hot Rats (1969) 
+- Love - Forever Changes (1967)`
+- ! Captain Beefheart and his Magic Band - Safe as Milk (1967)
+- The Fall - This Nation's Saving Grace (1985)
+- Wire - Pink Flag (1977)
+- Bonnie "Prince" Billy - I See a Darkness (1999)
+- Various Artists - Choubi Choubi: Folk & Pop Sounds from Iraq, Vol. 1 (2005)
+- Various Artists - Bollywood steel guitar (2008)
+- The Replacements - Let It Be (1984)
+- Bardo Pond - Lapsed (1997)
+- [[The Residents - God in Three Persons (1988)\|The Residents - God in Three Persons (1988)]]
+- Steve Reich - Music for 18 Musicians (1978)
+- Steve Reich - Different Trains (1988)
+- The Distillers - Coral Fang (2003)
+- the Melvins - Houdini Live 2005 (2006)
+- Melvins - Lysol (1992)
+- The Beach Boys - The Greatest Hits – Volume 1: 20 Good Vibrations (1995)
+- Various Artists - Éthiopiques Volume 1: The Golden Years of Modern Ethiopian Music (1998)
+- Iggy Pop - Lust for Life (1977)
+- Hüsker Dü - New Day Rising (1985)
+- Rahsaan Roland Kirk - Rip, Rig and Panic (1965)
+- Jim O'Rourke - Simple Songs (2015)
+- Meat Puppets - Up on the Sun (1985)
+- Meat Puppets - Too High to Die (1994)
+- Angels of Light - We Are Him (2007)
+- Abelardo Carbonó - El Maravilloso Mundo de Abelardo Carbonó (2013)
+- His Name Is Alive - Mouth by Mouth (1993)
+- Frank Zappa - One Size Fits All (1975)
+- Sun City Girls - Torch of the Mystics (1990)
+- J Balvin - Jose (2021)
+- Bad Bunny - YHLQMDLG (2020)
+- King Gizzard & The Lizard Wizard - LW (2021)
+- Yellow Magic Orchestra - Naughty Boys (1983)
+- Yellow Magic Orchestra - Solid State Survivor (1979)
+- Julia Holter - Have You in My Wilderness (2015)
+- [[ Royal Trux - Accelerator (1998)\| Royal Trux - Accelerator (1998)]]
+- **Gang Gang Dance - Saint Dymphna (2008)
+- **Gang Gang Dance - God's Money (2005)**
+- Aksak Maboul - Onze Danses Pour Combattre la Migraine (1977)
+- The Congos - Heart of the Congos (1977)
+- The Mighty Diamonds - Right Time (1976)
+- Paul and Linda McCartney - Ram (1971)
+- Morton Feldman - Three Voices (1989)
+- XTC - Nonsuch (1992)
+- Battles - Mirrored (2007)
+- Eliades Ochoa - Sublime Ilusión (1999)
+- J Dilla - Donuts (2006)
+- **Jenny Hval - Blood Bitch (2016)**
+- **Flamin' Groovies - Groovies' Greatest Grooves (1989)**
+- Tainy x Yandel - Dynasty (2021)
+- Miles Davis - The Complete On the Corner Sessions (2007)
+- The Kinks - The Kinks Are the Village Green Preservation Society (1968)
+- [[Catch All/Venetian Snares - Huge Chrome Cylinder Box Unfolding (2004)\|Venetian Snares - Huge Chrome Cylinder Box Unfolding (2004)]]
+- Anthony Braxton - For Alto (1969)
+- Can - Monster Movie (1969)
+- Broadcast - Tender Buttons (2005)
+- The Beatles - Revolver (1966)
+- Fe-mail - Syklubb Fra Hælvete (2003)
+- Wendy Carlos - A Clockwork Orange (1972)
+- Silver Apples - Silver Apples (1968)
+- [[Catch All/Mayo Thompson - Corky's Debt to His Father (1970)\|Mayo Thompson - Corky's Debt to His Father (1970)]]
+- Jackie-O Motherfucker - Fig. 5 (2000)
+- The Stooges - Fun House (1970)
+- Robert Ashley - Automatic Writing (1979)
+- GZA - Liquid Swords (1995)
+- Kraftwerk - Trans-Europe Express (1977)
+- Ernest Hood - Neighborhoods (1975)
+- Patsy Cline - The Very Best of Patsy Cline (1996)
+- Lizzy Mercier Descloux - Mambo Nassau (1981)
+- The Raymond Scott Quintet - Ectoplasm (2008)
+- The Frogs - It's Only Right and Natural (1989)
+- Ryuichi Sakamoto - Ongakuzukan (1984)
+- [[Catch All/Francis Bebey - Psychedelic Sanza (1982)\|Francis Bebey - Psychedelic Sanza (1982)]]
+- [[Catch All/Aby Ngana Diop - Liital (1994)\|Aby Ngana Diop - Liital (1994)]]
+- Current 93 - Aleph at Hallucinatory Mountain (2009)
+- Judas Priest - Screaming for Vengeance (1982)
+- **Judas Priest - Defenders of the Faith (1984)**
+- Andrés Landero - Cumbia Colombiana (1987)
+- Young Marble Giants - Colossal Youth (1980)
+- Peter Brötzmann, Evan Parker - The Bishop's Move (2004)
+- Burial - Untrue (2007)
+- Konono No.1 - Congotronics (2004)
+- The Jon Spencer Blues Explosion - Now I Got Worry (1996)
+- [[Catch All/David Bergman - Leapday Night (1987)\|David Bergman - Leapday Night (1987)]]
+- Nusrat Fateh Ali Khan - The King of Sufi Qawwali (2006)
+- Primrods - Unreleased (1998)
+- [[Catch All/M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)\|M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)]]
+
+## Related
+[[Digital Garden/Other albums I like\|Other albums I like]]
