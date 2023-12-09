@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai-alignment/","updated":"2023-12-06T16:31:18.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai-alignment/","updated":"2023-12-06T16:31:18.103-07:00"}
 ---
 
 ## Inner alignment 
