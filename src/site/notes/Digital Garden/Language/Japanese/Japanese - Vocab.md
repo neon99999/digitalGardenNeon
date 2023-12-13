@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2023-12-08T18:34:03.276-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2023-12-12T09:21:11.000-07:00"}
 ---
 
 #### Basic Conversation
@@ -14,39 +14,41 @@
 
 #### Adjectives
 
-1. 興味深い (きょうみぶかい) - Kyōmibukai - Interesting
-2. 零下 (れいか) - Reika - Below zero
-3. 暑い (あつい) - Atsui - Hot
-4. 綺麗 (きれい) - Kirei - Beautiful
-5. 悪い (わるい) - Warui - Bad
-6. 嬉しい (うれしい) - Ureshii - Happy
-7. 怖い (こわい) - Kowai - Scary
-8. かっこいい - Kakkoii - Attractive, good looking
-9. 忙しい (いそがしい) - Isogashii - Busy
-10. 悲しい (かなしい) - Kanashii - Sad
-11. 疲れた (つかれた) - Tukareta - Tired/exhausted
-12. 寒い (さむい) - Samui - Cold
-13. 暑い (あつい) - Atsui - Hot
-14. 蒸し暑い (むしあつい) - Mushi atsui - Humid
-15. 面白い (おもしろい) - Omoshiroi - Funny
-16. すばらしい - Subarashii - Amazing
-17. 大きい (おおきい) - Ooki - Big
-18. 小さい (ちいさい) - Chisai - Small
-19. 遠い (とおい) - Tooi - Far
-20. 近い (ちかい) - Chikai - Close
-21. つまらない - Tsumaranai - Boring
-22. 不満 (ふまん) - Fuman - Unsatisfied
+1.  悪い - (わるい) warui - bad
+2. 興味深い (きょうみぶかい) - Kyōmibukai - Interesting
+3. 零下 (れいか) - Reika - Below zero
+4. 暑い (あつい) - Atsui - Hot
+5. 綺麗 (きれい) - Kirei - Beautiful
+6. 悪い (わるい) - Warui - Bad
+7. 嬉しい (うれしい) - Ureshii - Happy
+8. 怖い (こわい) - Kowai - Scary
+9. かっこいい - Kakkoii - Attractive, good looking
+10. 忙しい (いそがしい) - Isogashii - Busy
+11. 悲しい (かなしい) - Kanashii - Sad
+12. 疲れた (つかれた) - Tukareta - Tired/exhausted
+13. 寒い (さむい) - Samui - Cold
+14. 暑い (あつい) - Atsui - Hot
+15. 蒸し暑い (むしあつい) - Mushi atsui - Humid
+16. 面白い (おもしろい) - Omoshiroi - Funny
+17. すばらしい - Subarashii - Amazing
+18. 大きい (おおきい) - Ooki - Big
+19. 小さい (ちいさい) - Chisai - Small
+20. 遠い (とおい) - Tooi - Far
+21. 近い (ちかい) - Chikai - Close
+22. つまらない - Tsumaranai - Boring
+23. 不満 (ふまん) - Fuman - Unsatisfied
 
 #### Places
 
 1. 場所 (ところ) - Tokoro - Place
-2. 寝室 (しんしつ) - Shinshitsu - Bedroom
-3. 大学 (だいがく) - Daigaku - University
-4. 図書館 (としょかん) - Toshokan - Library
-5. 海 (うみ) - Umi - Ocean
-6. アパート - Apāto - Apartment
-7. 部屋 (へや) - Heya - Room
-8. 入り口 (いりぐち) - Iriguchi - Entrance
+2. 公園 (こうえん)- kōen - park
+3. 寝室 (しんしつ) - Shinshitsu - Bedroom
+4. 大学 (だいがく) - Daigaku - University
+5. 図書館 (としょかん) - Toshokan - Library
+6. 海 (うみ) - Umi - Ocean
+7. アパート - Apāto - Apartment
+8. 部屋 (へや) - Heya - Room
+9. 入り口 (いりぐち) - Iriguchi - Entrance
 
 #### People
 
@@ -120,6 +122,7 @@
 - 助ける (tasukeru) - Help
 - 説明する (setsumei suru) - Explain
 - 質問 (shitsumon) - Question
+- きる-kiru - cut
 
 #### Frequency
 
