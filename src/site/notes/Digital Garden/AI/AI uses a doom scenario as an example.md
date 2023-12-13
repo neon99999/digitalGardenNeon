@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-uses-a-doom-scenario-as-an-example/","updated":"2023-12-08T17:49:33.486-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-uses-a-doom-scenario-as-an-example/","updated":"2023-12-08T17:49:33.000-07:00"}
 ---
 
 2023-04-20
