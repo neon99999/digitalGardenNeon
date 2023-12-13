@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2023-12-08T17:48:18.514-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2023-12-11T16:29:05.842-07:00"}
 ---
 
 ### Overview
@@ -8,6 +8,9 @@ Artificial intelligence will advance very quickly, becoming faster, cheaper and 
 
 AI will remove current obstacles and expediate progress in computer developments. Everything that seems really hard to do right now will become much easier. Teaching robots how to do things, learning language, images, solving engineering problems, chemistry, math,medicine.  
 
+### Happening Now
+- [Google Gemini integrates real time computer vision (ie a camera)](https://www.youtube.com/watch?v=UIZAiXYceBI), giving the AI a window into the visual realm and allowing it to observe, classify and infer with our visual reality. *Update*: Seems like this video was edited to make it seem more responsive than it acutally is. Regardless I don't think too far away from real-time responsiveness in AI. 
+- [Voice synthesis](https://elevenlabs.io/)and replication crosses the uncanny valley, becoming almost indistinguishable from human speech. 
 ### Very Soon
 - **AI-Driven Advertising Becomes Highly Personalized**: Targeting individual preferences with increasing precision.
 - AI becomes increasingly integrated into software and platforms. Google integrates it into Gmail and Google Docs. 
