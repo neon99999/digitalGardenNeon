@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/dogme-95/","tags":["concept"],"updated":"2023-12-09T13:55:08.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/dogme-95/","tags":["concept"],"updated":"2023-12-09T13:55:08.715-07:00"}
 ---
 
 ### Overview
