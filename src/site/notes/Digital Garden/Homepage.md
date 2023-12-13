@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-11T14:03:42.307-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-11T14:03:42.000-07:00"}
 ---
 
 # Greetings Visitor! 
@@ -31,6 +31,7 @@ Projects
 ## Featured Notes
 
 # Recently Updated Notes
+- [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
 - [[Digital Garden/Music/Music\|Music]]
 - [[Digital Garden/Language/Japanese/Japanese - Vocab\|Japanese - Vocab]]
 - [[Digital Garden/AI/AI - Prediction Timeline\|AI - Prediction Timeline]]
@@ -41,7 +42,6 @@ Projects
 - [[Digital Garden/One Day Projects/Bull\|Bull]]
 - [[Digital Garden/One Day Projects/AI Summons a curse\|AI Summons a curse]]
 - [[Digital Garden/One Day Projects/A Thing is Born\|A Thing is Born]]
-- [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
 - [[Digital Garden/Music/Bad Ass Electronic Ladies\|Bad Ass Electronic Ladies]]
 - [[Digital Garden/Music/Tunes for Specific Moods\|Tunes for Specific Moods]]
 - [[Digital Garden/Music/Early Electronic Pop\|Early Electronic Pop]]
