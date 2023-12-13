@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/8-ways-social-media-distorts-realities/","tags":["tech","critique","social-media"],"updated":"2023-12-11T14:21:51.752-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/8-ways-social-media-distorts-realities/","tags":["tech","critique","social-media"],"updated":"2023-12-11T14:21:51.000-07:00"}
 ---
 
 ## 8 WAYS SOCIAL MEDIA DISTORTS REALITY 
