@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-why-how/","updated":"2023-12-08T17:36:35.545-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-why-how/","updated":"2023-12-09T01:10:37.000-07:00"}
 ---
 
 ![Garden-08.jpg](/img/user/Attachements/Garden-08.jpg)
 #### What is it?
 
-- This is my personal website, digital garden, and second brain. Call it what you will; it's an extension of a reflection and note-taking practice I began in late 2022. It roughly follows the [[Digital Garden/Zettlecasten Method\|Zettlecasten Method]] This space will continue to evolve and refine as I add more notes and forge more connections. You can view my most recently updated notes at the bottom of the homepage.
+- This is my personal website, digital garden, and second brain. Call it what you will; it's an extension of a reflection and note-taking practice I began in late 2022. It roughly follows the [[Digital Garden/Zettlecasten Method\|Zettlecasten Method]] . It will continue to evolve and refine as I add more notes and forge more connections. You can view my most recently updated notes at the bottom of the homepage.
   
 #### My Approach to Online Presence
 
-- **Ongoing Debate with Social Media**: I've consciously stayed away from mainstream social media, seeking an online presence on my own terms, not through the dirty CPUs of a corporate overlord.
+- **Ongoing Debate with Social Media**: I've consciously stayed away from mainstream social media, seeking digitality on my own terms, not through the dirty CPUs of a corporate overlord.
   
-- **Revolting against the Social Media Scroll Hole:** I'm on a mission to rebel against the fleeting lifespan of social media posts and stories - the constant stream of endless data. **The loss and doom that one feels while scrolling.** I'm interested in a promoting alternative ways of existing online. Very little conversation occurs around this topic. 
+- **Revolting against the Social Media Scroll Hole:** I'm on a mission to rebel against the fleeting lifespan of social media posts and stories - the constant stream of endless data. **the loss and doom that one feels while scrolling.** 
+- Let's discuss alternative ways of existing online. Very little conversation occurs around this topic. 
 
 - **Artistic Promotion**: As a digital artist since 2005, I find it [pretty funny](https://youtu.be/Jne9t8sHpUc?si=8DGtKBHk9wfuDDrW) that I’ve only now created a personal website to showcase my work in 2024. Better late than never! 
   
@@ -20,7 +21,7 @@
 ![Garden-34.jpg](/img/user/Attachements/Garden-34.jpg)
 #### The Philosophy Behind My Digital Space
 
-- **Control Over Look and Feel**: I believe that we should have agency over our online digital identities in the same way we strive to have agency over out physical bodies. At minimum I like being able to pick my own damn color scheme! Digital us should be as unqiue as we are. DIY Digital (DIYD) Baby! 
+- **Control Over Look and Feel**: I believe that we should have agency over our online digital identities in the same way we strive for agency over our physical bodies. At minimum, I like being able to pick my own damn color scheme! Digital us should be as unqiue as we are. DIY Digital (DIYD) Baby! 
   
 - **Control Over Data**: Acknowledging the challenge of data privacy, I aim for a less intrusive platform,  If this platform is even 5% less sketchy than the likes of Meta Musk I'm down!
 
