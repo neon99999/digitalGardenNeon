@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/bathroom-modesty-device/","tags":["one-day-projects","toilet","speculative-product"],"updated":"2023-12-09T13:33:57.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/bathroom-modesty-device/","tags":["one-day-projects","toilet","speculative-product"],"updated":"2023-12-09T13:33:57.270-07:00"}
 ---
 
 ##### **Overview**
