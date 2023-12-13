@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-08T18:54:07.516-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-10T16:33:06.000-07:00"}
 ---
 
 An exhaustive list of albums that I would consider "favs of all time". 
@@ -103,6 +103,7 @@ In no particular order:
 - Nusrat Fateh Ali Khan - The King of Sufi Qawwali (2006)
 - Primrods - Unreleased (1998)
 - [[Catch All/M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)\|M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)]]
+- Various Artists - Wisisi (West Papua) (2021)
 
 ## Related
 [[Digital Garden/Other albums I like\|Other albums I like]]
