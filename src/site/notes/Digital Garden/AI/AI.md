@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai/","tags":["ai","tech"],"updated":"2023-12-08T17:47:15.410-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai/","updated":"2023-12-11T11:36:24.628-07:00"}
 ---
 
 ![Garden-30.jpg](/img/user/Attachements/Garden-30.jpg)"History is a constant race between invention and catastrophe" - Frank Herbert.
@@ -34,7 +34,6 @@ An ongoing collection of thoughts, fears, and predictions about artificial intel
 
 ## Predictions
 - [[Digital Garden/AI/AI - Prediction Timeline\|AI - Prediction Timeline]]
-- [[AI - The Accelerating Evolution\|AI - The Accelerating Evolution]]
 - [[Catch All/AI - Image making\|AI - Image making]]
 - [[Catch All/AI begin taking human form\|AI begin taking human form]]
 - [[Catch All/Grammarly on Steroids\|Grammarly on Steroids]] 
@@ -47,6 +46,11 @@ An ongoing collection of thoughts, fears, and predictions about artificial intel
 - [[Catch All/AI Love Scams\|AI Love Scams]]
 - [[Catch All/AI Understands Animals\|AI Understands Animals]]
 - [[Catch All/AI integration into communication\|AI integration into communication]]
+
+### Related Advancements
+[[Digital Garden/Future AR Technology\|Future AR Technology]]
+[[Catch All/Timeline of AR display technoogy\|Timeline of AR display technoogy]]
+
 
 ## References
 [[Catch All/Podcast - Lex Fridman - 371 Max Tegmark\|Podcast - Lex Fridman - 371 Max Tegmark]] 
