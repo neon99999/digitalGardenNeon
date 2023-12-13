@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/other-albums-i-like/","updated":"2023-12-08T18:52:44.160-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/other-albums-i-like/","updated":"2023-12-08T18:52:44.000-07:00"}
 ---
 
 Steve Reich - Early Tape Recordings
