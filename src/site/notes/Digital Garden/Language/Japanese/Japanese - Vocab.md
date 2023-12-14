@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2023-12-12T09:21:11.495-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2023-12-12T09:21:11.000-07:00"}
 ---
 
 #### Basic Conversation
