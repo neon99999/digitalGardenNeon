@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/capture-scrambler/","tags":["one-day-projects"],"updated":"2023-12-09T14:21:54.438-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/capture-scrambler/","tags":["one-day-projects"],"updated":"2023-12-09T14:21:54.000-07:00"}
 ---
 
 
