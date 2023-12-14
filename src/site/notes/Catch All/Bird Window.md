@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/bird-window/","tags":["one-day-projects","digital-nature"],"updated":"2023-12-09T13:47:26.694-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/bird-window/","tags":["one-day-projects","digital-nature"],"updated":"2023-12-09T13:47:26.000-07:00"}
 ---
 
 ##### **Overview**
