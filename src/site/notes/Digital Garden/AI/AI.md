@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai/","updated":"2023-12-11T11:36:24.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai/","tags":["featured"],"updated":"2023-12-14T00:09:31.102-07:00"}
 ---
 
 ![Garden-30.jpg](/img/user/Attachements/Garden-30.jpg)"History is a constant race between invention and catastrophe" - Frank Herbert.
