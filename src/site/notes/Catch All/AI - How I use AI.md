@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/ai-how-i-use-ai/","updated":"2023-12-12T20:50:50.035-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/ai-how-i-use-ai/","updated":"2023-12-12T20:50:50.000-07:00"}
 ---
 
 I began explorong [[Catch All/Artificial Intelligence\|Artificial Intelligence]] indirrectly in 2020 while building [[Catch All/DEEP DIVE\|Deep Dive]]. This was before it was extra easy to use and you actually had to make a bunch of API calls and know programming. At first I was facinated by how silly and uncanny it was. You would ask it something and it would spit back the most absurd things. 
