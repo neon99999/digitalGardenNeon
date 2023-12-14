@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/nunsploitation-at-camp-holyland/","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-12-01T20:44:02.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/nunsploitation-at-camp-holyland/","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-12-13T11:31:16.000-07:00"}
 ---
 
-##### **Overview**
+### **Overview**
 A a group of innocent young nuns and one [[Catch All/old stuboorn nun\|old stuboorn nun]], go for a weekend getaway to [[Catch All/HolyLand Bible Camp\|HolyLand Bible Camp]] in the woods. 
 
 What awaits them is three nights of sinful pleasure, culminating in a steamy encounter with a cruscified [[Catch All/Christ-Hermit\|Christ-Hermit]] that inhabits the hills. 
 
-# General Plot
+### General Plot
 
 A group of 5-12 nuns head out of town to a country get away
 the begging makes the film feel like a period piece because inside the nunnary can look very old and be very formal
