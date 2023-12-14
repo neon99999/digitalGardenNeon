@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/ai-happiness-assistant/","tags":["one-day-projects","ai"],"updated":"2023-12-09T14:24:58.507-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/ai-happiness-assistant/","tags":["one-day-projects","ai"],"updated":"2023-12-09T14:24:58.000-07:00"}
 ---
 
 ### Overview
