@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/chicken-wire-toilet/","tags":["one-day-projects"],"updated":"2023-12-09T14:31:07.238-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/chicken-wire-toilet/","tags":["one-day-projects"],"updated":"2023-12-09T14:31:07.000-07:00"}
 ---
 
 ### Overview
