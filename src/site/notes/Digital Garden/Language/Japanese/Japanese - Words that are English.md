@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-words-that-are-english/","updated":"2023-12-08T17:54:48.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-words-that-are-english/","updated":"2023-12-08T17:54:48.135-07:00"}
 ---
 
 - ピッチャーの水 - pitchā no mizu - pitcher of water
