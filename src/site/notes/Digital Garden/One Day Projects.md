@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/","tags":["featured"],"updated":"2023-12-14T00:10:23.770-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/","tags":["featured"],"updated":"2023-12-14T00:10:23.000-07:00"}
 ---
 
 - [[Digital Garden/One Day Projects/Bull\|Bull]]
