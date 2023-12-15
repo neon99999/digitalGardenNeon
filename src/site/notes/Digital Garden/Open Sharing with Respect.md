@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/open-sharing-with-respect/","updated":"2023-12-06T12:30:14.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/open-sharing-with-respect/","updated":"2023-12-06T12:30:14.094-07:00"}
 ---
 
 ![garden_02.jpg](/img/user/Attachements/garden_02.jpg)
