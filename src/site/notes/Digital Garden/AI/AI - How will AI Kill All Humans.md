@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-how-will-ai-kill-all-humans/","updated":"2023-12-08T17:50:59.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-how-will-ai-kill-all-humans/","updated":"2023-12-08T17:50:59.626-07:00"}
 ---
 
 Notes from [[Catch All/Podcast - Lex Fridman - 371 Max Tegmark\|Podcast - Lex Fridman - 371 Max Tegmark]]
