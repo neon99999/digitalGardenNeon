@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/freak-folk/","tags":["tune-for-mood"],"updated":"2023-12-08T19:16:01.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/freak-folk/","tags":["tune-for-mood"],"updated":"2023-12-08T19:16:01.025-07:00"}
 ---
 
 [Jackie-O Motherfucker - Go Down, Old Hannah](https://www.youtube.com/watch?v=w43lG14XjPo)
