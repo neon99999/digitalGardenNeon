@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/zettlecasten-method/","updated":"2023-12-08T17:31:15.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/zettlecasten-method/","updated":"2023-12-08T17:31:15.079-07:00"}
 ---
 
 ### Overview
