@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-14T00:11:50.189-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/homepage/","tags":["gardenEntry"],"updated":"2023-12-14T00:11:50.000-07:00"}
 ---
 
 # Greetings Visitor! 
@@ -17,11 +17,11 @@ This may be different than your usual artist website so please be patient while 
 
 { .block-language-dataview}
 # Recently Updated Notes
+- [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
 - [[Digital Garden/Homepage\|Homepage]]
 - [[Digital Garden/One Day Projects\|One Day Projects]]
 - [[Digital Garden/AI/AI\|AI]]
 - [[Digital Garden/Music/Music\|Music]]
-- [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
 - [[Digital Garden/Language/Japanese/Japanese - Vocab\|Japanese - Vocab]]
 - [[Digital Garden/AI/AI - Prediction Timeline\|AI - Prediction Timeline]]
 - [[Digital Garden/8 ways social media distorts realities\|8 ways social media distorts realities]]
