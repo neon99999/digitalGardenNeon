@@ -17,20 +17,20 @@ This may be different than your usual artist website so please be patient while 
 
 { .block-language-dataview}
 # Recently Updated Notes
+- [[Digital Garden/One Day Projects/Time Left - Life expectancy visualizer\|Time Left - Life expectancy visualizer]]
+- [[Digital Garden/One Day Projects/Digital Blasphemy\|Digital Blasphemy]]
+- [[Digital Garden/One Day Projects/Digital Prayer Maker\|Digital Prayer Maker]]
+- [[Digital Garden/One Day Projects/Guinea Pig Hapiness Machine\|Guinea Pig Hapiness Machine]]
+- [[Digital Garden/One Day Projects/Yourself reimagined\|Yourself reimagined]]
+- [[Digital Garden/AI/AI - Prediction Timeline\|AI - Prediction Timeline]]
+- [[Digital Garden/Fruit Flies in Glass Case\|Fruit Flies in Glass Case]]
 - [[Digital Garden/WHAT - WHY - HOW\|WHAT - WHY - HOW]]
 - [[Digital Garden/Homepage\|Homepage]]
 - [[Digital Garden/One Day Projects\|One Day Projects]]
 - [[Digital Garden/AI/AI\|AI]]
 - [[Digital Garden/Music/Music\|Music]]
 - [[Digital Garden/Language/Japanese/Japanese - Vocab\|Japanese - Vocab]]
-- [[Digital Garden/AI/AI - Prediction Timeline\|AI - Prediction Timeline]]
 - [[Digital Garden/8 ways social media distorts realities\|8 ways social media distorts realities]]
 - [[Digital Garden/Music/My Favourite Albums\|My Favourite Albums]]
-- [[Digital Garden/One Day Projects/Bull\|Bull]]
-- [[Digital Garden/One Day Projects/AI Summons a curse\|AI Summons a curse]]
-- [[Digital Garden/One Day Projects/A Thing is Born\|A Thing is Born]]
-- [[Digital Garden/Music/Bad Ass Electronic Ladies\|Bad Ass Electronic Ladies]]
-- [[Digital Garden/Music/Tunes for Specific Moods\|Tunes for Specific Moods]]
-- [[Digital Garden/Music/Early Electronic Pop\|Early Electronic Pop]]
 
 { .block-language-dataview}
