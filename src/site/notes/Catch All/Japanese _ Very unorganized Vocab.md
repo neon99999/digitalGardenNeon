@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/japanese-very-unorganized-vocab/","updated":"2023-12-08T17:55:04.147-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/japanese-very-unorganized-vocab/","updated":"2023-12-08T17:55:04.000-07:00"}
 ---
 
 kore wa desune Pacu Man na desune mina die ski - this is everyone's beloved pacman
