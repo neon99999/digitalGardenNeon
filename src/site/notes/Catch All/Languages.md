@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/languages/","updated":"2023-12-08T18:36:29.679-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/languages/","updated":"2023-12-08T18:36:29.000-07:00"}
 ---
 
 [[Catch All/Spanish Language\|Spanish Language]] 
