@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/online-music-resrouces/","updated":"2023-12-08T18:49:58.416-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/online-music-resrouces/","updated":"2023-12-08T18:49:58.000-07:00"}
 ---
 
 https://www.allmusic.com/
