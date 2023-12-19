@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/guinea-pig-hapiness-machine/","updated":"2023-12-18T22:39:11.466-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/guinea-pig-hapiness-machine/","updated":"2023-12-18T22:57:55.106-07:00"}
 ---
 
+![Garden-36.jpg](/img/user/Attachements/Garden-36.jpg)
 ##### **Overview**
 An automated machine designed exclusively for optimizing the happiness of pet guinea pigs.
 
