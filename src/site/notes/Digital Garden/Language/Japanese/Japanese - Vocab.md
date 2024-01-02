@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2023-12-12T09:21:11.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2024-01-01T15:01:02.000-07:00"}
 ---
 
 #### Basic Conversation
@@ -66,11 +66,13 @@
 2. 牛乳 (ぎゅうにゅう) - Gyūnyū - Milk
 3. 眼鏡 (めがね) - Megane - Glasses
 4. お菓子 (おかし) - O-kashi - Snack
+5. はぶらし-  haburashi - toothbrush
 #### Food and Dining
 
 - 苺 (いちご, ichigo) - Strawberry
 - 甘い (amai) - Sweet
 - 辛い (karai) - Spicy
+- しょっき (shokki) eating utensil
 
 #### Emotions and States
 
@@ -96,6 +98,7 @@
 
 - 虹 (niji) - Rainbow
 - アリ (ari) - Ant
+- 凍る(kōru) - Freeze
 
 #### Home and Everyday Objects
 
