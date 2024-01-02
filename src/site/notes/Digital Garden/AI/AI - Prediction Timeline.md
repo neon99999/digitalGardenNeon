@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2023-12-18T22:06:40.761-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2023-12-19T09:49:41.000-07:00"}
 ---
 
 ### Overview
@@ -12,6 +12,7 @@ AI will remove current obstacles and expediate progress in computer developments
 - [Google Gemini integrates real time computer vision (ie a camera)](https://www.youtube.com/watch?v=UIZAiXYceBI), giving the AI a window into the visual realm and allowing it to observe, classify and infer with our visual reality. *Update*: Seems like this video was edited to make it seem more responsive than it acutally is. Regardless I don't think too far away from real-time responsiveness in AI. 
 - [Voice synthesis](https://elevenlabs.io/)and replication crosses the uncanny valley, becoming almost indistinguishable from human speech. 
 - AI begins to be[integrated into toys](https://www.theverge.com/2023/12/14/24001895/grimes-curio-ai-toy-grok-pre-order?utm_source=substack&utm_medium=email) and other kids products
+- [Social media platforms](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/?utm_source=tldrai&guccounter=1) offer AI integration in posts, introducing a wider and younger audience to AI potential and further altering ideas of truth. 
 ### Very Soon
 - **AI-Driven Advertising Becomes Highly Personalized**: Targeting individual preferences with increasing precision.
 - AI becomes increasingly integrated into software and platforms. Google integrates it into Gmail and Google Docs. 
