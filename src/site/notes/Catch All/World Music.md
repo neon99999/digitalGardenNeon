@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/world-music/","tags":["music"],"updated":"2023-12-10T17:32:21.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/world-music/","tags":["music"],"updated":"2023-12-20T17:27:43.000-07:00"}
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ For a less currated experience check out [Radio Garden](http://radio.garden) a d
 [[Catch All/Awesome Music from Colombia\|Awesome Music from Colombia]]
 
 ### Egypt
-[[Catch All/Music - Egypt\|Music - Egypt]]
+[Victor Kiswell Boiler Room DJ Set](https://youtu.be/kWcercp_AA4?si=o96hQaipW7xIrbQA)
 
 ### Democratic Republic of Congo
 [Fulu Miziki]([](https://www.youtube.com/watch?v=Ri2oK4gApMU))
@@ -32,5 +32,11 @@ For a less currated experience check out [Radio Garden](http://radio.garden) a d
 ### Senegal 
 [Mark Ernestus’ NDAGGA RHYTHM FORCE](https://soundcloud.com/ndagga/walo-walo)
 
-West Papua
+## West Papua
 [Wisisi (West Papua) (RIAFC056)](https://www.youtube.com/watch?v=U2IU121UxL8)
+
+## Ethiopia
+[Minimalistic Ethio 80s & 90s from AudioTapes](https://www.mixcloud.com/mitmitta/minimalistic-ethio-80s-90s-from-audiotapes/)
+
+## Albania
+[Albanian Synth](https://www.youtube.com/watch?v=P2BifYPHRUU)
