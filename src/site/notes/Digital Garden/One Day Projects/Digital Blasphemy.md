@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-blasphemy/","tags":["one-day-projects"],"updated":"2023-12-18T22:45:26.025-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-blasphemy/","tags":["one-day-projects"],"updated":"2023-12-18T23:02:19.770-07:00"}
 ---
 
-##### **Overview**
+![Garden-37.jpg](/img/user/Attachements/Garden-37.jpg)## **Overview**
 A provocative digital device designed to deliberately commit acts considered as severe sins in various religions. Challenges the boundaries of religious doctrines and digital ethics.
 
 
