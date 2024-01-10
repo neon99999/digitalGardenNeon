@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-outer-alignment/","updated":"2023-12-06T16:30:36.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-outer-alignment/","updated":"2023-12-06T16:30:36.143-07:00"}
 ---
 
