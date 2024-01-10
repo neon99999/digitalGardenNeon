@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catch-all/nunsploitation-at-camp-holyland/","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-12-13T11:31:16.000-07:00"}
+{"dg-publish":true,"permalink":"/catch-all/nunsploitation-at-camp-holyland/","tags":["one-day-projects","short-film","Nunsploitation"],"updated":"2023-12-13T11:31:16.041-07:00"}
 ---
 
 ### **Overview**
