@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2024-01-01T15:01:02.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/language/japanese/japanese-vocab/","updated":"2024-01-03T15:38:34.129-07:00"}
 ---
 
 #### Basic Conversation
@@ -67,6 +67,7 @@
 3. 眼鏡 (めがね) - Megane - Glasses
 4. お菓子 (おかし) - O-kashi - Snack
 5. はぶらし-  haburashi - toothbrush
+6. 眼鏡 (めがね) - megane - eyeglasses
 #### Food and Dining
 
 - 苺 (いちご, ichigo) - Strawberry
