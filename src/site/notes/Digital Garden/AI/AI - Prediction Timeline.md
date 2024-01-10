@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2023-12-19T09:49:41.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-prediction-timeline/","updated":"2024-01-05T21:44:31.000-07:00"}
 ---
 
 ### Overview
@@ -13,6 +13,7 @@ AI will remove current obstacles and expediate progress in computer developments
 - [Voice synthesis](https://elevenlabs.io/)and replication crosses the uncanny valley, becoming almost indistinguishable from human speech. 
 - AI begins to be[integrated into toys](https://www.theverge.com/2023/12/14/24001895/grimes-curio-ai-toy-grok-pre-order?utm_source=substack&utm_medium=email) and other kids products
 - [Social media platforms](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/?utm_source=tldrai&guccounter=1) offer AI integration in posts, introducing a wider and younger audience to AI potential and further altering ideas of truth. 
+- Camera makers enter arms race by developing [digital signatures](https://asia.nikkei.com/Business/Technology/Nikon-Sony-and-Canon-fight-AI-fakes-with-new-camera-tech?utm_source=tldrai) that are embedded into images to verify that image has not be altered by AI 
 ### Very Soon
 - **AI-Driven Advertising Becomes Highly Personalized**: Targeting individual preferences with increasing precision.
 - AI becomes increasingly integrated into software and platforms. Google integrates it into Gmail and Google Docs. 
