@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/time-left-life-expectancy-visualizer/","tags":["one-day-projects"],"updated":"2023-12-18T22:48:07.620-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/time-left-life-expectancy-visualizer/","tags":["one-day-projects"],"updated":"2024-01-03T14:40:04.000-07:00"}
 ---
 
 ##### **Overview**
@@ -16,6 +16,7 @@ Should look stunning regardless if you know the concept or not.
 Small lights arranged in a sculpture or above people's heads like a starscape. Each light is a week of life. 
 
 *Bask in the fading glow or take solumn in the darkness of the past*."
+
 A sculpture of a small child holding hands with an old person gazing up at the lights in reflection. 
 
 ### Questions
