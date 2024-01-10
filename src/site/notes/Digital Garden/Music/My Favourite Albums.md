@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/my-favourite-albums/","tags":["music","list"],"updated":"2023-12-10T16:33:06.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/my-favourite-albums/","tags":["music","list"],"updated":"2024-01-09T23:49:31.000-07:00"}
 ---
 
 An exhaustive list of albums that I would consider "favs of all time". 
@@ -104,6 +104,7 @@ In no particular order:
 - Primrods - Unreleased (1998)
 - [[Catch All/M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)\|M. S. Subbulakshmi - Sri Venkatesa Suprabhatam (1963)]]
 - Various Artists - Wisisi (West Papua) (2021)
+- [[Catch All/Sparks - Kimono my House (1974)\|Sparks - Kimono my House (1974)]]
 
 ## Related
-[[Digital Garden/Other albums I like\|Other albums I like]]
+[[Digital Garden/Music/Other albums I like\|Other albums I like]]
