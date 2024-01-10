@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/albums-that-shaped-my-youth/","updated":"2023-12-08T18:52:47.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/albums-that-shaped-my-youth/","updated":"2023-12-08T18:52:47.730-07:00"}
 ---
 
 ## Early years
