@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/psychedelic-amazonian-cumbia/","tags":["tune-for-mood"],"updated":"2023-12-08T19:22:25.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/psychedelic-amazonian-cumbia/","tags":["tune-for-mood"],"updated":"2023-12-08T19:22:25.217-07:00"}
 ---
 
 [Juaneco y su combo - Ya se ha muerto mi abuelo](https://www.youtube.com/watch?v=cBQi8PVq4uI)
