@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/bad-ass-electronic-ladies/","tags":["tune-for-mood"],"updated":"2023-12-23T15:13:15.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/bad-ass-electronic-ladies/","tags":["tune-for-mood"],"updated":"2023-12-23T15:13:15.628-07:00"}
 ---
 
 [Beatrice Dillon - Workaround](https://youtu.be/SqqsI9TwN3k?si=-e3VRXH00ZYP3Y7X)
