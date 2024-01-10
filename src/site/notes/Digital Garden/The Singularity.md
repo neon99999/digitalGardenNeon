@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-singularity/","updated":"2023-12-06T16:51:11.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-singularity/","updated":"2023-12-06T16:51:11.815-07:00"}
 ---
 
 ## Overview
