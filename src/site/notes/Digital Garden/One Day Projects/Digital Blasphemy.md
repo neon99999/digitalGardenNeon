@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-blasphemy/","tags":["one-day-projects"],"updated":"2023-12-18T23:02:19.770-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-blasphemy/","tags":["one-day-projects"],"updated":"2023-12-18T23:02:19.000-07:00"}
 ---
 
 ![Garden-37.jpg](/img/user/Attachements/Garden-37.jpg)## **Overview**
