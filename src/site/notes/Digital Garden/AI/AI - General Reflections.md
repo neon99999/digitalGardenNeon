@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-general-reflections/","updated":"2023-12-06T17:07:59.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-general-reflections/","updated":"2023-12-06T17:07:59.828-07:00"}
 ---
 
 ## General Thoughts
