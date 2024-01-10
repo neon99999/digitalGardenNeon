@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ai/ai-artificial-neurons/","updated":"2023-12-06T16:37:34.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ai/ai-artificial-neurons/","updated":"2023-12-06T16:37:34.398-07:00"}
 ---
 
 - Similar to the way human brains consist of interconnected networks that process information and pass it on to the next or to multiple or loop it back around.
