@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/yourself-reimagined/","tags":["one-day-projects"],"updated":"2023-12-18T22:26:39.753-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/yourself-reimagined/","tags":["one-day-projects"],"updated":"2023-12-18T22:26:39.000-07:00"}
 ---
 
 ### Overview
