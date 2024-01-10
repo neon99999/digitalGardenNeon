@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-prayer-maker/","tags":["one-day-projects"],"updated":"2023-12-18T22:42:54.338-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/one-day-projects/digital-prayer-maker/","tags":["one-day-projects"],"updated":"2023-12-18T22:42:54.000-07:00"}
 ---
 
 ## Overview
