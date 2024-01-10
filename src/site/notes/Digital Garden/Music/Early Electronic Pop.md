@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/music/early-electronic-pop/","tags":["tune-for-mood"],"updated":"2023-12-08T19:44:56.000-07:00"}
+{"dg-publish":true,"permalink":"/digital-garden/music/early-electronic-pop/","tags":["tune-for-mood"],"updated":"2023-12-08T19:44:56.193-07:00"}
 ---
 
 [Yellow Magic Orchestra (YMO) - Solid State Survivor (1979, full album)](https://youtu.be/Wmed0gmwzKY?si=JfUsLSoUSzlONvoa)
